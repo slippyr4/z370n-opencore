@@ -4,31 +4,31 @@ This is my WIP OpenCore setup for the Z370N-Wifi board.
 
 ## My Specs
 
-Z370N-Wifi
-EFI F10
-Core i7 8700K
-32GB RAM (2x16GB)
-Samsung 970 EVO 1TB
-Apple wifi/bt card from MacBook Air 
-Apple Magic Keyboard / Magic trackpad
-RX 560
-Integrated Graphics Enabled
-Samsung 28" 4K monitor
+- Z370N-Wifi
+- EFI F10
+- Core i7 8700K
+- 32GB RAM (2x16GB)
+- Samsung 970 EVO 1TB
+- Apple wifi/bt card from MacBook Air 
+- Apple Magic Keyboard / Magic trackpad
+- RX 560
+- Integrated Graphics Enabled
+- Samsung 28" 4K monitor
 
 
 ## What works
 
-Catalina install
-Sleep
-All devices
-Most DRM 
+- Catalina install
+- Sleep
+- All devices
+- Most DRM 
 
 ## What doesn't / Still to do
 
-USB Mapping
-CFG LOCK patching of EFI
-CPU PM states (if I decide to do that)
-Enable and test Wake on lan
+- USB Mapping
+- CFG LOCK patching of EFI
+- CPU PM states (if I decide to do that)
+- Enable and test Wake on lan
 
 
 ## Notes
